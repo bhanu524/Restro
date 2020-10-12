@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: sh
+Build-Jdk: 10.0.2
+Implementation-Title: Restro
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/Restro
+Created-By: Maven Integration for Eclipse
+
